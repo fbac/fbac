@@ -8,8 +8,9 @@
 > - I like to automate stuff to do the boring chore tasks for me, also CI/CD using Github Actions / Jenkins or whatever other platform brings me joy. (Isn't it beautiful when everything just works?)
 > - I'm and avid student and I love to be in continuous brain development myself.
 > - My final goal is to contribute to the linux kernel with some patch. And for that I keep studying and hacking in my own time. :)
-> 
-> 
+>
+> mail: me@fbac.dev
+>
 > website: https://fbac.dev
 > 
 > linkedin: www.linkedin.com/in/fbac
