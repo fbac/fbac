@@ -13,11 +13,12 @@ My name is **Borja**, and I've been always connected to opensource, development 
 - My final goal is to contribute to the linux kernel with some patch. And for that I keep studying and hacking in my own time. :)
 
 ### Contact
-| ------------- | ------------- |
-| mail | me@fbac.dev  |
-| website  | https://fbac.dev  |
-| linkedin | www.linkedin.com/in/fbac |
-| twitter | https://twitter.com/0xfbac |
+```
+mail: me@fbac.dev
+website: https://fbac.dev
+linkedin: www.linkedin.com/in/fbac
+twitter: https://twitter.com/0xfbac
+```
 
 ### Repo health
 [![GitHub Pages](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml/badge.svg)](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml)
