@@ -13,7 +13,6 @@ My name is **Borja**, and I've been always connected to opensource, development 
 - My final goal is to contribute to the linux kernel with some patch. And for that I keep studying and hacking in my own time. :)
 
 ### Contact
-| Contact  | @ |
 | ------------- | ------------- |
 | mail | me@fbac.dev  |
 | website  | https://fbac.dev  |
