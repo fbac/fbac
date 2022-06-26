@@ -1,6 +1,7 @@
 # Welcome, visitor! 👋
 
 ## https://fbac.dev
+#### [[ Full Resume ]](resume.md)
 
 ### About me
 My name is **Borja**, and I've been always connected to opensource, development and unix through my entire work life.
@@ -13,7 +14,8 @@ My name is **Borja**, and I've been always connected to opensource, development 
 - My final goal is to contribute to the linux kernel with some patch. And for that I keep studying and hacking in my own time. :)
 
 ### Contact
-```
+
+```bash
 mail: me@fbac.dev
 website: https://fbac.dev
 linkedin: www.linkedin.com/in/fbac
