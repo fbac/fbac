@@ -24,6 +24,7 @@ twitter: https://twitter.com/0xfbac
 
 ###
 [![fbac's github stats](https://github-readme-stats.vercel.app/api?username=fbac)](https://github.com/anuraghazra/github-readme-stats)
+[![fbac top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbac)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repositories health
 
