@@ -22,11 +22,10 @@ linkedin: www.linkedin.com/in/fbac
 twitter: https://twitter.com/0xfbac
 ```
 
-###
-[![fbac's github stats](https://github-readme-stats.vercel.app/api?username=fbac)](https://github.com/anuraghazra/github-readme-stats)
-[![fbac top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbac)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Repositories health
 
 [![GitHub Pages](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml/badge.svg)](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml)
 [![pages-build-deployment](https://github.com/fbac/fbac.dev/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fbac/fbac.dev/actions/workflows/pages/pages-build-deployment)
+
+### Some stats, just for the rule of cool
+[![fbac's github stats](https://github-readme-stats.vercel.app/api?username=fbac)](https://github.com/anuraghazra/github-readme-stats)
