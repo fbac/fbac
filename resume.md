@@ -1,10 +1,10 @@
 # Francisco de Borja Aranda Castillejo
 
 ## Contents
+
 - [Francisco de Borja Aranda Castillejo](#francisco-de-borja-aranda-castillejo)
   - [Contents](#contents)
   - [Who am I?](#who-am-i)
-  - [Contact me](#contact-me)
   - [My skill set](#my-skill-set)
   - [Certifications](#certifications)
   - [Studies](#studies)
@@ -17,26 +17,15 @@
 
 ## Who am I?
 
-<img style="float: left;  margin-right: 10px;" src="avatar.jpg" width="150" height="150">
+<img style="float: left;  margin-right: 20px;" src="avatar.jpg" width="150" height="150">
 
-I'm a Software Engineer who is passionate about technology and how to talk with computers at the lowest level.
-And weirdly enough, I enjoy reading RFC to *really* understand how current computers and standards are built.
+I'm a Software Engineer who is driven by curiosity with a great passion towards technology and Open Source projects.
 
-I enjoy working from low level projects for operating systems, networking to contributing to modern projects such as Kubernetes, OpenShift... in general everything that represents a challenge and growing.
+My strongest qualities are; being passionate about Computer Sciences, incredibly curious and having the constant need of developing my skills to new highs. I'm always eager to work in fast-paced environment where learning new skills along the way is a must. And finally, I'm an avid reader of books/documentation/RFC's and, luckily enough, a very fast learner.
 
-Developing my skills is a constant, and I have strong foundations in computer sciences, operating systems and networking, and I'm always aiming for more knowledge. 
-I consider myself a highly motivated individual with an always-growing and curious mindset about everything regarding technology. And I'm always eager to just jump on the documentation until I'm capable of understanding and debugging whatever I have in front of me, even if it's an embedded system, a network protocol or a piece of code, I'm just curious and can´t help it.
+I consider myself analytical, a hard-worker and a team player who loves to work with smart and curious people.
 
-In my career I've worked as Linux System Administrator, Software Engineer, Consultant, and I've always loved working with linux and open-source technologies. I'm a hard-worker, maybe a bit obsessive and inquisitive when it comes to find why and how "something" is doing "something". I've worked as part of small, medium and big teams and also as an alone wolf, I love collaboration, productive discussions and listening to a million opinions, because I firmly believe that we grow when we share, and that's an intrinsic part of the Open Source values I follow.
-
-I code in a variety of languages such as C, go, python and java, and I have scripting skills in good old bash. 
-My most used language is golang as it's the language I'm using the most currently. But also I really enjoy coding in C (it's just... awesome) and lately I'm really interested in Rust, learning it and I'll look for projects written in it to contribute in the future.
-
-## Contact me
-
-- [fbac.dev](https://fbac.dev)
-- [github](https://github.com/fbac)
-- [linkedin](https://www.linkedin.com/in/fbac/)
+[[fbac.dev]](https://fbac.dev) [[github]](https://github.com/fbac) [[linkedin]](https://www.linkedin.com/in/fbac/)
 
 ## My skill set
 
@@ -45,7 +34,7 @@ My most used language is golang as it's the language I'm using the most currentl
   - Experience building simple kernel modules and debugging kernel issues.
   - Packaging (rpm, deb).
   - Experience with linux linkers and libraries, ld, elf (and dwarf) formats and low-level basic knowledge.
-  - Debugging performance issues using perf.
+  - Debugging performance issues using perf.P{}
   - Experience debugging application performance with HeatMap and FlameGraph.
   - Little/mid experience with systemtamp and basic ebpf tools. (I'm really interested on this field right now)
   - Deep understanding in container runtimes, docker daemon and the OCI Runtime Specification (and associated repositories)
@@ -70,23 +59,26 @@ My most used language is golang as it's the language I'm using the most currentl
   - Deep experience with Kubernetes and OpenShift.
     - Creating scalable and resilient architectures with disaster recovery, backup plans, documented day 2 operations, etc.
     - Installing, configuring, managing such platforms and applications on top on that.
-    - Debugging issues of every kind, from malfunctions to performance issues.
+    - Debugging issues of every kind, from application malfunctions, discover bugs at any point (container runtime, apps, OS, etc.) to performance issues.
+  - Knowledgeable in distributed systems theory and consensus algorithms.
 
 - **Development**
   - My strongest language is golang.
-    - Secondary languages python and C.
-    - Little experienced in java and node.js, and even assembly.
-    - Knowledge in html, javascript, css... sometimes I do some frontend stuff.
-  - In the near future I plan to start developing in Rust. (soon!)
+    - Secondary languages are python and C.
+    - Middle experienced in assembly, node.js and java.
+    - Some knowledge in html, javascript, css.
+  - In the near future I'll develop my Rust skills.
   - Experience with cmake, automake and llvm.
   - Experience debugging with gdb and delve.
-  - In the past, as fun personal projects I've developed my own kernel modules (from the initial hello_world.ko to modules catching keystrokes), some IoT experiments
+  - I've developed my own kernel modules (from the initial hello_world.ko to modules catching keystrokes), and some IoT experiments.
   - Contributed to Kubernetes, OpenShift, openshift-sdn, OpenShift HAProxy Ingress Router and some other repositories.
   - Using git on a daily basis, working with big teams where the git workflow is fine-grained and important to follow.
-  - Strong foundations in algorithms, data structures and computer sciences to achieve better results and more performant applications.
+  - Strong foundations in algorithms and data structures.
+  - Knowledgeable in operating systems theory.
+  - Knowledgeable in low level systems design to achieve optimal performance and low memory footprints in the programs I write.
 
 - **CI/CD**
-  - Experienced in many tools, such as:
+  - Experienced in CI/CD tools, such as:
     - Github Actions
     - Prow
     - Jenkins
