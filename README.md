@@ -4,7 +4,7 @@
 
 ### [[ Full Resume ]](resume.md)
 
-My name is **Borja**, and I engineer software so some software gets engineered.
+My name is **Borja**, and I engineer software.
 
 - My passions: **Open Source**, **kernels**, **networking** and ground breaking technologies such as **eBPF**, **web3** and **blockchain**.
 - My **current** role is **Senior Software Engineer @ Chainlink Labs**, because truth > trust.
