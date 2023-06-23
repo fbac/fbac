@@ -7,7 +7,8 @@
 My name is **Borja**, and I engineer software so some software gets engineered.
 
 - My passions: **Open Source**, **kernels**, **networking** and ground breaking technologies such as **eBPF**, **web3** and **blockchain**.
-- My last role was **Principal Software Engineer @ Red Hat**, working mainly with OpenShift/Kubernetes, container runtimes, developing tools, contributing, bugfixing and all that.
+- My **current** role is **Senior Software Engineer @ Chainlink Labs**, because truth > trust.
+- My **last** role was **Principal Software Engineer @ Red Hat**, working mainly with OpenShift/Kubernetes, container runtimes, developing tools, contributing, bugfixing and all that.
 - Preferred programming languages are **C**, **Golang** and **Rust**. But if needed I can code in python, java, javascript, typescript. I consider myself a language agnostic engineer.
 - I like to automate stuff to do the boring chore tasks for me, also CI/CD using Github Actions / Jenkins or whatever other platform brings me joy. (Isn't it beautiful when everything just works?)
 - I'm and avid student and I love to be in continuous brain development myself.
