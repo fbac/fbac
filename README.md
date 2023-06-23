@@ -22,7 +22,5 @@ linkedin: www.linkedin.com/in/fbac
 twitter: https://twitter.com/0xfbac
 ```
 
-### Repositories health
-
 [![GitHub Pages](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml/badge.svg)](https://github.com/fbac/fbac.dev/actions/workflows/push-to-ghpages.yaml)
 [![pages-build-deployment](https://github.com/fbac/fbac.dev/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fbac/fbac.dev/actions/workflows/pages/pages-build-deployment)
