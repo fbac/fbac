@@ -7,7 +7,8 @@
 My name is **Borja**, and I'm a software engineer.
 
 - My passions: **Open Source**, **kernels**, **networking** and ground breaking technologies such as **eBPF**, **web3** and **blockchain**.
-- I'm a Software Engineer at ZetaChain, and as a part of the protocol team I build the blockchain, using go-ethereum, ethermint, cosmos-sdk, ibc, etc.
+- My current role is Software Engineer at [Ephemera](https://ephemerahq.com/), where we're building a completely decentralized and censorship-resistant communications protocol based on our [XMTP](https://xmtp.org/) protocol, which uses [MLS](https://www.ietf.org/about/introduction/).
+- My previous role was Software Engineer at ZetaChain, and as a part of the protocol team I helped building the blockchain, using go-ethereum, ethermint, cosmos-sdk, ibc, etc.
 - Preferred programming languages are **C**, **Golang** and **Rust**. But if needed I can code in python, java, javascript, typescript. I consider myself a language agnostic engineer.
 - I'm and avid student and I love to be in continuous brain development myself.
 
