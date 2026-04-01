@@ -24,4 +24,4 @@ I take ambiguous problems, figure out the architecture, write the code, ship it,
 
 ## Links
 
-🌐 [fbac.dev](https://fbac.dev) · ✍️ [blog](https://blog.fbac.dev) · 💼 [linkedin](https://www.linkedin.com/in/fbac/) · 📧 [0xfbac@gmail.com](mailto:0xfbac@gmail.com)
+🌐 [fbac.dev](https://fbac.dev) · ✍️ [blog](https://blog.fbac.dev) · 💼 [linkedin](https://www.linkedin.com/in/fbac/) · 📧 [me@fbac.dev](mailto:me@fbac.dev)
