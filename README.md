@@ -2,25 +2,25 @@
 
 Staff Engineer. 15+ years building systems that run in production.
 
-I take ambiguous problems, figure out the architecture, write the code, ship it, and iterate until it works at scale. I come from the bottom of the stack — Linux kernel, eBPF, networking internals — and work my way up through distributed backends, protocol design, smart contracts, and cloud infrastructure.
+I take ambiguous problems, figure out the architecture, write the code, ship it, and iterate until it works at scale. My home is the bottom of the stack - Linux kernel, eBPF, networking internals,  and I build up from there through distributed backends, high-throughput services, and the infrastructure that runs them.
 
 ## What I build
 
-- **Protocol & distributed systems** — decentralized messaging networks, cross-chain indexers, consensus-critical backend services
-- **Smart contracts & on-chain systems** — settlement protocols, registry contracts, Merkle verification
-- **Infrastructure** — Kubernetes, Terraform, AWS, CI/CD pipelines that don't break at 3am
-- **Low-level systems** — eBPF networking tools, custom L4 proxies, kernel-level debugging
+- **Low-level systems** — eBPF networking tools, custom L4 proxies (sk_lookup), SR-IOV/DPDK data paths, kernel-level debugging and performance work
+- **Networking** — SDN, netfilter, Open vSwitch, TLS, socket-level connection steering
+- **Distributed systems & backends** — services that scale, consensus-critical backend services, decentralized messaging networks, cross-chain indexers
+- **Infrastructure** — Kubernetes/OpenShift, Terraform, AWS, Cloudflare edge, CI/CD pipelines that don't break at 3am
 
 ## Stack
 
-**Go · Rust · C · Solidity** — PostgreSQL, Kubernetes, Terraform, AWS, Foundry
+**Go · Rust · C** — Linux kernel, eBPF, Kubernetes, Terraform, AWS, PostgreSQL · also Solidity/Foundry
 
 ## Career
 
-- **Staff Engineer** — XMTP Labs · protocol architecture, decentralized backend, smart contracts, cross-chain indexing, infrastructure
-- **Protocol Engineer** — ZetaChain · Cosmos SDK L1, protocol contracts v2
-- **Senior Engineer** — Chainlink Labs · infrastructure, smart contract toolchains, cross-chain tooling
-- **Principal Engineer** — Red Hat · Kubernetes/OpenShift core, eBPF networking, Linux kernel
+- **Staff Engineer** — XMTP Labs · decentralized backend, AWS/Kubernetes/Terraform infrastructure, a globally distributed Cloudflare edge platform, protocol architecture
+- **Protocol Engineer** — ZetaChain · Cosmos SDK L1 distributed-systems and protocol engineering
+- **Senior Engineer** — Chainlink Labs · core infrastructure and toolchains for a high-availability oracle network, cross-chain tooling
+- **Principal Engineer** — Red Hat · upstream Kubernetes/OpenShift core, eBPF networking, Linux kernel internals, cluster scale & performance work
 
 ## Links
 
